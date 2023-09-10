@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Enterprise Microfrontend reactjs application**
 
-- 👯 I’m looking to collaborate on **any reactjs**
+- 👯 I’m looking to collaborate on **any reactjs application**
 
 - 👨‍💻 All of my projects are available at [updating soon](updating soon)
 
