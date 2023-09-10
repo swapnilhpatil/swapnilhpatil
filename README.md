@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swapnil Patil</h1>
-<h3 align="center">A passionate frontend developer having 5 years of experience in developing Microfrontend and Single page application using Reactjs. Redux, Nextjs and from India</h3>
+<h3 align="center">A passionate frontend developer having 5 years of experience in developing Microfrontend and Single page application using Reactjs. Redux and Nextjs from India</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilhpatil&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilhpatil" /> </p>
 
