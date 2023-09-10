@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swapnil Patil</h1>
-<h3 align="center">A passionate frontend developer having 5 years of experience in developing Microfrontend and Single page application using Reactjs. Redux and Nextjs from India</h3>
+<h3 align="center">A passionate frontend developer having 5 years of experience in developing Microfrontends and Single page application using Reactjs. Redux and Nextjs from India</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilhpatil&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilhpatil" /> </p>
 
@@ -25,10 +25,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/swapnilhpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="swapnilhpatil" height="30" width="40" /></a>
-<a href="https://twitter.com/@swapnilhpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@swapnilhpatil" height="30" width="40" /></a>
+<!-- <a href="https://dev.to/swapnilhpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="swapnilhpatil" height="30" width="40" /></a> -->
+<!-- <a href="https://twitter.com/@swapnilhpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@swapnilhpatil" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/https://in.linkedin.com/in/swapnil-patil-682754117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/swapnil-patil-682754117" height="30" width="40" /></a>
-<a href="https://medium.com/@swapnilhpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@swapnilhpatil" height="30" width="40" /></a>
+<!-- <a href="https://medium.com/@swapnilhpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@swapnilhpatil" height="30" width="40" /></a> -->
 <a href="/swapnilhpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="swapnilhpatil" height="30" width="40" /></a>
 </p>
 
