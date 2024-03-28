@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Swapnil Patil</h1>
 <h3 align="center">A passionate Senior Fullstack developer from India</h3>
+<h3 align="center">With 6 years experience builing and migrating web applications.</h3>
+
 
 - 💬 Ask me about **ReactJs, Next.js** ... or anything
 
-- 📫 How to reach me **swapnilhpatil9999@gmail.com**
+- 📫 How to reach me on Mail or Skype: **swapnilhpatil9999@gmail.com**
 
 - 💞️ I’m looking to collaborate on Any full stack application with ReactJs Next.js Node.js Express.js or Java SpringBoot, MongoDB
 
