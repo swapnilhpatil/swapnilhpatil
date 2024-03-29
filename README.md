@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swapnil Patil</h1>
 <h3 align="center">A passionate Senior Fullstack developer from India</h3>
-<h3 align="center">With 6 years experience builing and migrating web applications.</h3>
+<h3 align="center">With 6 years experience building and migrating web applications.</h3>
 
 
 - 💬 Ask me about **ReactJs, Next.js** ... or anything
