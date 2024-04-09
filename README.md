@@ -7,7 +7,7 @@
 
 - 📫 How to reach me on Mail or Skype: **swapnilhpatil9999@gmail.com**
 
-- 💞️ I’m looking to collaborate on Any full stack application with ReactJs, Next.js, Node.js, Express.js or Java, SpringBoot, MongoDB.
+- 💞️ I’m looking to collaborate on Any full stack application with ReactJs, Next.js, Node.js, Express.js or Java, SpringBoot and MongoDB.
 
 
 <div align="center"> 
