@@ -3,7 +3,7 @@
 <h3 align="center">With 6 years experience building and migrating web applications.</h3>
 
 
-- 💬 Ask me about **ReactJs, Next.js** ... or anything
+- 💬 Ask me about **ReactJs, Next.js, NodeJs and ExpressJs** ... or anything
 
 - 📫 How to reach me on Mail or Skype: **swapnilhpatil9999@gmail.com**
 
